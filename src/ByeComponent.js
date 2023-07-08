@@ -10,6 +10,7 @@ function ByeComponent() {
         <React.Fragment>
             <div>Bye !!!</div> 
             <div>sfsfddsa</div>
+            <div>testing</div>
         </React.Fragment>
     )
 
