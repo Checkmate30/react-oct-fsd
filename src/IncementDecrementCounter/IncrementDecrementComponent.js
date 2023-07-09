@@ -18,7 +18,6 @@ function IncrementDecrementComponent(props) {
 
         setCounter(counter + 1)
        
-       
         // // console.log("Plus increment clicked!!!")
         // number = number + 1
 
